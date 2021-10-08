@@ -277,6 +277,7 @@
            </settingDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-10-07"><name>Petra Bago</name>Izmjene u zaglavlju, objava na GitHub repozitoriju: https://github.com/pbago/DirKorp</change>
             <change when="2021-08-08"><name>Petra Bago</name> Izmjene u vrijednostima atributa (npr. "formalna1" u "NEFAM1") i dodavanje objašnjenja atributa u zaglavlje.</change>
             <change when="2021-08-07"><name>Petra Bago</name> Manji ispravci</change>
             <change when="2021-08-06"><name>Petra Bago</name> Manji ispravci</change>
