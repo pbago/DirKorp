@@ -44,5 +44,7 @@ Informacije su prikazane kao atributi elementa govornoga čina.
 
 ## Za citiranje
 Za citiranje korpusa molimo koristiti sljedeći izvor:
+
 Karlić, Virna; Bago, Petra. *(RAČUNALNA) PRAGMATIKA: Temeljni pojmovi i korpusnopragmatičke analize.* Zagreb : FF-press, 2021.
+
 https://openbooks.ffzg.unizg.hr/index.php/FFpress/catalog/book/125
