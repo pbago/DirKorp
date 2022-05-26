@@ -14,7 +14,7 @@ Ispitanici: 100 studenata Filozofskog fakulteta u Zagrebu
 Licencija: Creative Commons Imenovanje 4.0
 
 
-Korpus direktivnih govornih činova hrvatskoga jezika (**DirKorp**) ručno je označen korpus na razini govornoga čina, a svaki govorni čin može sadržavati sljedeće slojeve informacija:
+Korpus direktivnih govornih činova hrvatskoga jezika (**DirKorp**) ručno je označen korpus na razini govornoga čina, a svaki govorni čin može sadržavati sljedeće slojeve informacija (inačica v2):
 
 (1) identifikacijsku oznaku ispitanika;
 
@@ -30,9 +30,19 @@ Korpus direktivnih govornih činova hrvatskoga jezika (**DirKorp**) ručno je oz
 
 (7) informaciju o obraćanju na ti ili Vi;
 
-(8) informaciju o zastupljenosti adhorativa u sklopu govornoga čina.
+(8) informaciju o zastupljenosti adhorativa u sklopu govornoga čina;
+
+(9) informaciju o leksičkom markeru molbe;
+
+(10) informaciju o leksičkom markeru isprike;
+
+(11) informaciju o leksičkom markeru zahvale;
+
+(12) informacije o honorifik-tituli.
 
 Informacije su prikazane kao atributi elementa govornoga čina.
 
 ## Za citiranje
-Za citiranje korpusa molimo koristiti sljedeći izvor: Karlić, Virna; Bago, Petra. *(RAČUNALNA) PRAGMATIKA: Temeljni pojmovi i korpusnopragmatičke analize.* Zagreb : FF-press, (u tisku).
+Za citiranje korpusa molimo koristiti sljedeći izvor:
+Karlić, Virna; Bago, Petra. *(RAČUNALNA) PRAGMATIKA: Temeljni pojmovi i korpusnopragmatičke analize.* Zagreb : FF-press, 2021.
+https://openbooks.ffzg.unizg.hr/index.php/FFpress/catalog/book/125
