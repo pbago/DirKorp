@@ -159,7 +159,6 @@
                     </category>
                     <category xml:id="molbaN">
                         <catDesc>Govorni čin ne sadržava leksički marker molbe.</catDesc>
-                        <!-- DODATI JOŠ INFO? -->
                     </category>
                 </taxonomy>
                 <taxonomy xml:id="isprika">
