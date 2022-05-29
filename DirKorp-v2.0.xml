@@ -179,10 +179,10 @@
                 </taxonomy>
                 <taxonomy xml:id="honorifik">
                     <category xml:id="honorifikY">
-                        <catDesc>Govoni čin sadržava honorifik-titulu.</catDesc>
+                        <catDesc>Govorni čin sadržava honorifik-titulu.</catDesc>
                     </category>
                     <category xml:id="honorifikN">
-                        <catDesc>Govoni čin ne sadržava honorifik-titulu.</catDesc>
+                        <catDesc>Govorni čin ne sadržava honorifik-titulu.</catDesc>
                     </category>
                 </taxonomy>
             </classDecl>
