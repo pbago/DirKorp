@@ -14,7 +14,7 @@ Ispitanici: 100 studenata Filozofskog fakulteta u Zagrebu
 Licencija: Creative Commons Imenovanje 4.0
 
 
-Korpus direktivnih govornih činova hrvatskoga jezika (**DirKorp**) ručno je označen korpus na razini govornoga čina, a svaki govorni čin može sadržavati sljedeće slojeve informacija (inačica v2):
+Korpus direktivnih govornih činova hrvatskoga jezika (**DirKorp**) ručno je označen korpus na razini govornoga čina, a svaki govorni čin može sadržavati sljedeće slojeve informacija (inačica v3):
 
 (1) identifikacijsku oznaku ispitanika;
 
@@ -38,7 +38,11 @@ Korpus direktivnih govornih činova hrvatskoga jezika (**DirKorp**) ručno je oz
 
 (11) informaciju o leksičkom markeru zahvale;
 
-(12) informacije o honorifik-tituli.
+(12) informaciju o honorifik-tituli.
+
+(13) informaciju o glagolskom načinu.
+
+(14) informaciju o modalnom glagolu u drugome licu.
 
 Informacije su prikazane kao atributi elementa govornoga čina.
 
